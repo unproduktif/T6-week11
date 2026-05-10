@@ -111,45 +111,29 @@ python main.py
 
 ## 🏠 Tampilan Utama
 
-Tambahkan screenshot tampilan utama di folder:
-
-```text
-screenshots/main.png
-```
-
-```markdown
 ![Main](screenshots/main.png)
-```
+
 
 ---
 
 ## ➕ Form Tambah Post
 
-Tambahkan screenshot form tambah post:
-
-```markdown
 ![Add](screenshots/add_post.png)
-```
+
 
 ---
 
 ## 📄 Detail Post
 
-Tambahkan screenshot detail post:
-
-```markdown
 ![Detail](screenshots/detail.png)
-```
+
 
 ---
 
 ## 🗑 Delete Confirmation
 
-Tambahkan screenshot dialog delete:
-
-```markdown
 ![Delete](screenshots/delete.png)
-```
+
 
 ---
 
